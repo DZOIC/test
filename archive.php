@@ -1,5 +1,5 @@
 <?php 
-	get_header(); 
+	
 
 	
 	if( is_date() ){

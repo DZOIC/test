@@ -20,11 +20,7 @@
 		
 	}
 	
-	echo ebor_breadcrumb_section( 
-			$title, 
-			$description, 
-			get_option( 'stack_blog_breadcrumb_image', '' ) 
-	);
+
 ?>
 
 <section class="space--sm unpad--top">

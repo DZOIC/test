@@ -1,6 +1,6 @@
 <?php 
 	get_header(); 
-	$title = $description = false;
+
 	
 	if( is_date() ){
 		

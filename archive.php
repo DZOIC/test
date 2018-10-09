@@ -1,6 +1,5 @@
 <?php 
 	
-test change
 	
 	if( is_date() ){
 		
